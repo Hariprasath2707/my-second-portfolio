@@ -41,6 +41,16 @@ function Contact() {
         <div className="formGroup">
           <label htmlFor="email" className="visually-hidden"></label>
           <input
+            type="tel"
+            name="phone"
+            id="phone"
+            placeholder="Phone"
+            required
+          />
+        </div>
+        <div className="formGroup">
+          <label htmlFor="email" className="visually-hidden"></label>
+          <input
             type="email"
             name="email"
             id="email"

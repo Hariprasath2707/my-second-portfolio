@@ -12,7 +12,7 @@ function Projects() {
       <div className={styles.projectsContainer}>
         <ProjectCard
           src={zoho}
-          link="https://github.com/Hariprasath2707/Zoho_clone.git"
+          link="https://zoho-clone-hari.netlify.app"
           h3="Zoho Clone"
           p="Front-End Website"
         />
