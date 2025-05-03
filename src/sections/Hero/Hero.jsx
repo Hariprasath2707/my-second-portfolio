@@ -8,7 +8,7 @@ import githubLight from '../../assets/github-light.svg';
 import githubDark from '../../assets/github-dark.svg';
 import linkedinLight from '../../assets/linkedin-light.svg';
 import linkedinDark from '../../assets/linkedin-dark.svg';
-import CV from '../../assets/Hariprasath-resume-f1.pdf';
+import CV from '../../assets/HARIPRASATH_MCA_2024_7.2CGPA_PYTHON.pdf';
 import { useTheme } from '../../common/ThemeContext';
 
 function Hero() {
